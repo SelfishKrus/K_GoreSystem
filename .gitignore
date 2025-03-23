@@ -72,3 +72,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+K_GoreSystem/Intermediate/
+K_GoreSystem/Saved/
+K_GoreSystem/Binaries/
