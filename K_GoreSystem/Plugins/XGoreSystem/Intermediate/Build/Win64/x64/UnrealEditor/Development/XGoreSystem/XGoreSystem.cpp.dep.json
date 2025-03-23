@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "g:\\githubprojects\\k_goresystem\\k_goresystem\\plugins\\xgoresystem\\source\\xgoresystem\\private\\xgoresystem.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\githubprojects\\k_goresystem\\k_goresystem\\intermediate\\build\\win64\\x64\\k_goresystemeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "g:\\githubprojects\\k_goresystem\\k_goresystem\\plugins\\xgoresystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\xgoresystem\\definitions.xgoresystem.h",
+            "g:\\githubprojects\\k_goresystem\\k_goresystem\\plugins\\xgoresystem\\source\\xgoresystem\\public\\xgoresystem.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
