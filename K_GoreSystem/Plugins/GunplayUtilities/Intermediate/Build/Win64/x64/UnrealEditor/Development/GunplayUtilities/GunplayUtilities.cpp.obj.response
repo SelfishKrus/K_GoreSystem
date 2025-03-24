@@ -1,6 +1,6 @@
-G:\GithubProjects\K_GoreSystem\K_GoreSystem\Plugins\GunplayUtilities\Source\GunplayUtilities\Private\GunplayUtilities.cpp
+C:\GithubProjects\K_GoreSystem\K_GoreSystem\Plugins\GunplayUtilities\Source\GunplayUtilities\Private\GunplayUtilities.cpp
 /I .
-/I G:\GithubProjects\K_GoreSystem\K_GoreSystem\Plugins\GunplayUtilities\Source\GunplayUtilities\Private
+/I C:\GithubProjects\K_GoreSystem\K_GoreSystem\Plugins\GunplayUtilities\Source\GunplayUtilities\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
 /I Runtime\CoreUObject\Public
 /I Runtime
@@ -273,23 +273,23 @@ G:\GithubProjects\K_GoreSystem\K_GoreSystem\Plugins\GunplayUtilities\Source\Gunp
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
-/I G:\GithubProjects\K_GoreSystem\K_GoreSystem\Plugins\GunplayUtilities\Source
-/I G:\GithubProjects\K_GoreSystem\K_GoreSystem\Plugins\GunplayUtilities\Source\GunplayUtilities\Public
+/I C:\GithubProjects\K_GoreSystem\K_GoreSystem\Plugins\GunplayUtilities\Source
+/I C:\GithubProjects\K_GoreSystem\K_GoreSystem\Plugins\GunplayUtilities\Source\GunplayUtilities\Public
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
 /external:I ThirdParty\LibTiff\Source
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"G:\GithubProjects\K_GoreSystem\K_GoreSystem\Intermediate\Build\Win64\x64\K_GoreSystemEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/FI"G:\GithubProjects\K_GoreSystem\K_GoreSystem\Plugins\GunplayUtilities\Intermediate\Build\Win64\x64\UnrealEditor\Development\GunplayUtilities\Definitions.GunplayUtilities.h"
-/Yu"G:\GithubProjects\K_GoreSystem\K_GoreSystem\Intermediate\Build\Win64\x64\K_GoreSystemEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/Fp"G:\GithubProjects\K_GoreSystem\K_GoreSystem\Intermediate\Build\Win64\x64\K_GoreSystemEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
-/Fo"G:\GithubProjects\K_GoreSystem\K_GoreSystem\Plugins\GunplayUtilities\Intermediate\Build\Win64\x64\UnrealEditor\Development\GunplayUtilities\GunplayUtilities.cpp.obj"
-/sourceDependencies G:\GithubProjects\K_GoreSystem\K_GoreSystem\Plugins\GunplayUtilities\Intermediate\Build\Win64\x64\UnrealEditor\Development\GunplayUtilities\GunplayUtilities.cpp.dep.json
+/FI"C:\GithubProjects\K_GoreSystem\K_GoreSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\GithubProjects\K_GoreSystem\K_GoreSystem\Plugins\GunplayUtilities\Intermediate\Build\Win64\x64\UnrealEditor\Development\GunplayUtilities\Definitions.GunplayUtilities.h"
+/Yu"C:\GithubProjects\K_GoreSystem\K_GoreSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\GithubProjects\K_GoreSystem\K_GoreSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\GithubProjects\K_GoreSystem\K_GoreSystem\Plugins\GunplayUtilities\Intermediate\Build\Win64\x64\UnrealEditor\Development\GunplayUtilities\GunplayUtilities.cpp.obj"
+/sourceDependencies C:\GithubProjects\K_GoreSystem\K_GoreSystem\Plugins\GunplayUtilities\Intermediate\Build\Win64\x64\UnrealEditor\Development\GunplayUtilities\GunplayUtilities.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi
