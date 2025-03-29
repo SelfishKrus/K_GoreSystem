@@ -75,3 +75,7 @@ DerivedDataCache/*
 K_GoreSystem/Intermediate/
 K_GoreSystem/Saved/
 K_GoreSystem/Binaries/
+K_GoreSystem/Plugins/GunplayUtilities/Intermediate/
+K_GoreSystem/Plugins/XGoreSystem/Intermediate/
+K_GoreSystem/Plugins/GunplayUtilities/Binaries/
+K_GoreSystem/Plugins/XGoreSystem/Binaries/
